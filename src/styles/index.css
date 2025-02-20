@@ -9,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.bigCounter{
+    height: 80px;
+    background: #101010;
+    color:white
+}
+
+.fa-regular{
+    font-size: 60px;
+    
+}
